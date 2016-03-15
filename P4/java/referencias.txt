@@ -1,0 +1,3 @@
+http://martin-thoma.com/matrix-multiplication-python-java-cpp/
+http://martin-thoma.com/strassen-algorithm-in-python-java-cpp/
+http://martin-thoma.com/part-iii-matrix-multiplication-on-multiple-cores-in-python-java-and-c/

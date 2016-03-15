@@ -1,0 +1,55 @@
+=== 65536 ===
+
+real	0m0.006s
+user	0m0.002s
+sys	0m0.003s
+=== 131072 ===
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.003s
+=== 262144 ===
+
+real	0m0.011s
+user	0m0.005s
+sys	0m0.006s
+=== 524288 ===
+
+real	0m0.019s
+user	0m0.010s
+sys	0m0.009s
+=== 1048576 ===
+
+real	0m0.035s
+user	0m0.021s
+sys	0m0.014s
+=== 2097152 ===
+
+real	0m0.062s
+user	0m0.038s
+sys	0m0.023s
+=== 4194304 ===
+
+real	0m0.119s
+user	0m0.075s
+sys	0m0.043s
+=== 8388608 ===
+
+real	0m0.236s
+user	0m0.162s
+sys	0m0.073s
+=== 16777216 ===
+
+real	0m0.469s
+user	0m0.323s
+sys	0m0.145s
+=== 33554432 ===
+
+real	0m0.925s
+user	0m0.644s
+sys	0m0.279s
+=== 67108864 ===
+
+real	0m0.894s
+user	0m0.603s
+sys	0m0.290s

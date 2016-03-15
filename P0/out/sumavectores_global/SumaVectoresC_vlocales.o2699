@@ -1,0 +1,19 @@
+Id. usuario del trabajo: B3estudiante3
+Id. del trabajo: 2699.atcgrid
+Nombre del trabajo especificado por usuario: SumaVectoresC_vlocales
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/B3estudiante3/bloque0
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+Tiempo(seg.):0.000000188	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /
+Tiempo(seg.):0.000000147	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /
+Tiempo(seg.):0.000000148	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /
+Tiempo(seg.):0.000000148	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /
+Tiempo(seg.):0.000000148	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /
+Tiempo(seg.):0.000000137	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /
+Tiempo(seg.):0.000000131	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /
+Tiempo(seg.):0.000000142	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /
+Tiempo(seg.):0.000000157	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /
+Tiempo(seg.):0.000000150	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /
+Tiempo(seg.):0.000000142	 / Tamaño Vectores:10	/ V1[0]+V2[0]=V3[0](1.000000+1.000000=2.000000) /V1[9]+V2[9]=V3[9](1.900000+0.100000=2.000000) /

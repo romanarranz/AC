@@ -1,0 +1,30 @@
+===============
+spawn ssh -o StrictHostKeyChecking=no B3estudiante3@atcgrid.ugr.es pbsnodes
+B3estudiante3@atcgrid.ugr.es's password: 
+atcgrid1
+     state = free
+     np = 12
+     ntype = cluster
+     status = rectime=1425381279,varattr=,jobs=,state=free,netload=6228953029,gres=,loadave=0.00,ncpus=24,physmem=32938356kb,availmem=65222732kb,totmem=65706352kb,idletime=605624,nusers=1,nsessions=1,sessions=18799,uname=Linux atcgrid1 3.17.8-200.fc20.x86_64 #1 SMP Thu Jan 8 23:26:57 UTC 2015 x86_64,opsys=linux
+     mom_service_port = 15002
+     mom_manager_port = 15003
+     gpus = 0
+
+atcgrid2
+     state = free
+     np = 12
+     ntype = cluster
+     status = rectime=1425381279,varattr=,jobs=,state=free,netload=84217798,gres=,loadave=0.00,ncpus=24,physmem=32938360kb,availmem=65257392kb,totmem=65706356kb,idletime=605622,nusers=0,nsessions=0,uname=Linux atcgrid2 3.17.8-200.fc20.x86_64 #1 SMP Thu Jan 8 23:26:57 UTC 2015 x86_64,opsys=linux
+     mom_service_port = 15002
+     mom_manager_port = 15003
+     gpus = 0
+
+atcgrid3
+     state = free
+     np = 12
+     ntype = cluster
+     status = rectime=1425381279,varattr=,jobs=,state=free,netload=84167661,gres=,loadave=0.00,ncpus=24,physmem=32939844kb,availmem=65264040kb,totmem=65707840kb,idletime=605617,nusers=0,nsessions=0,uname=Linux atcgrid3 3.11.10-301.fc20.x86_64 #1 SMP Thu Dec 5 14:01:17 UTC 2013 x86_64,opsys=linux
+     mom_service_port = 15002
+     mom_manager_port = 15003
+     gpus = 0
+
