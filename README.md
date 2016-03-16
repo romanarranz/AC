@@ -25,3 +25,10 @@ Ejemplos de toma de tiempos sobre SumaVectores para esta practica.
 | ... | ... | ... | ... | ... |
 | 16777216 | 134217728 | - | 0.079689599 | 0.080892243 |
 | 67108864 | 536870912 | - | 0.158487293 | 0.322524806 |  
+
+#### Práctica 1: Directivas de OpenMP
+En esta práctica se dejan varios programas con las directivas de **OpenMP** para ver el funcionamiento de cada una de las directivas. Dentro del código hay explicaciones en comentarios sobre cómo funcionan dichas directivas en la mayoría de programas.
+
+Se deja a continuación una gráfica para observar como afecta en el tiempo de ejecución el uso de OpenMP respecto a un programa secuencial.
+
+![graficaP1](img/1.jpg)
