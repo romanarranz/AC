@@ -16,6 +16,7 @@ En esta práctica se dejan varios ejemplos básicos de programas usando **OpenMP
 > - Otro de los ejemplos que se deja SumaVectores.cpp para C++ y SumaVectores.c se usará en otras prácticas
 
 Ejemplos de toma de tiempos sobre SumaVectores para esta practica.
+
 | Nº de Componentes | Bytes de un Vector | T. Vectores Locales | T. Vectores Globales | T. Vectores Dinámicos |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 65536  | 524288  | 0.000336244 | 0.000349606 | 0.000293322 |
