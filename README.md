@@ -16,6 +16,7 @@ En esta práctica se dejan varios ejemplos básicos de programas usando **OpenMP
 > - Otro de los ejemplos que se deja SumaVectores.cpp para C++ y SumaVectores.c se usará en otras prácticas
 
 
+<<<<<<< HEAD
 ### Práctica 1: Directivas con OpenMP
 
 En esta práctica hacemos uso de las directivas que nos ofrece OpenMP para crear y terminar regiones paralelas, realizar tareas compartidas mediante sincronización y comunicación entre hilos.
@@ -38,3 +39,20 @@ En esta práctica hacemos uso de cláusulas fundamentales que ofrece OpenMP, con
 > - Podremos discernir el ámbito de una variable en código.
 > - Debemos hacer distinción entre directivas y cláusulas.
 > - Entre los ejemplos se deja el producto de una matriz cuadrada M por un vector V implementado con OpenMP.
+=======
+| Nº de Componentes | Bytes de un Vector | T. Vectores Locales | T. Vectores Globales | T. Vectores Dinámicos |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| 65536  | 524288  | 0.000336244 | 0.000349606 | 0.000293322 |
+| 131072 | 1048576 | 0.000622083 | 0.000632433 | 0.000537794 |
+| 262144 | 2097152 | 0.001237088 | 0.001269812 | 0.001140235 |
+| ... | ... | ... | ... | ... |
+| 16777216 | 134217728 | - | 0.079689599 | 0.080892243 |
+| 67108864 | 536870912 | - | 0.158487293 | 0.322524806 |  
+
+#### Práctica 1: Directivas de OpenMP
+En esta práctica se dejan varios programas con las directivas de **OpenMP** para ver el funcionamiento de cada una de las directivas. Dentro del código hay explicaciones en comentarios sobre cómo funcionan dichas directivas en la mayoría de programas.
+
+Se deja a continuación una gráfica para observar como afecta en el tiempo de ejecución el uso de OpenMP respecto a un programa secuencial.
+
+![graficaP1](img/1.jpg)
+>>>>>>> origin/master
